@@ -1,0 +1,24 @@
+```html
+    <!DOCTYPE html>
+    <html lang="en">
+
+    <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <!-- Add an appropriate title in this tag -->
+      <title></title>
+      <!-- Links to stylesheets -->
+    </head>
+
+    <body>
+      <!-- Your visible elements -->
+      <!-- Links to scripts -->
+    </body>
+
+    </html>
+    ```
+
+
+
+
+## This is the code from step 3.2 that was supposed to be pasted on the file index.html but I couldn't figure out how to do that...
